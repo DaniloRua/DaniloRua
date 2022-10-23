@@ -1,8 +1,15 @@
-### Hi there 👋, my name is Danilo
-#### Front-End developer
+# Hi there 👋, my name is Danilo
+
+## Front-End developer
+
 I'm Danilo from Brazil, currently living in Italy, and I've been studying languages and frameworks, like JavaScript and React. I'm enjoying the journey!
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experiences
+
+:computer:  HTML, CSS and JavaScript
+⚛️ React
+
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning APIs , fecth API, nodejs and React 
