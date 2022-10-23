@@ -6,8 +6,9 @@ I'm Danilo from Brazil, currently living in Italy, and I've been studying langua
 
 ## Skills and Experiences
 
-:computer:  HTML, CSS and JavaScript
-⚛️ React
+- :computer:  HTML, CSS and JavaScript
+
+-⚛️ React
 
 
 
