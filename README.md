@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Danilo
+#### Front-End developer
+I'm Danilo from Brazil, currently living in Italy, and I've been studying languages and frameworks, like JavaScript and React. I'm enjoying the journey!
 
-im Danilo from Brazil, currently living in Italy, and Ive been stydying languages and frameworks, like JavaScript and React. I really enjoying that journey.
+Skills: REACT / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloRua)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
