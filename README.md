@@ -1,4 +1,4 @@
-# Hello World! 👋 my name is Danilo
+# Hello World! 👋 
 
 ## Front-End developer
 
@@ -13,4 +13,4 @@ I'm Danilo from Brazil, currently living in Italy, and I've been studying langua
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/danilo-rua-28599b28//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/danilo.rua//)  
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page...
