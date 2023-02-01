@@ -7,6 +7,7 @@ I'm Danilo Rua from Brazil, currently living in Italy, and I've been studying la
 ## Skills and Experiences
 
 - :computer:  HTML, CSS and JavaScript
+- 🌫  Tailwindcss
 - ⚛️ React 
 - 🌱 I’m currently learning APIs, nodejs and React 
 
