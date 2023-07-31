@@ -2,7 +2,7 @@
 
 ## Front-End developer
 
-I'm Danilo Rua from Brazil, currently living in Italy, and I've been studying languages and frameworks, like JavaScript and React. I'm enjoying the journey!
+I'm Danilo Rua from Brazil, currently living in England, and I've been studying languages and frameworks, like JavaScript and React. I'm enjoying the journey!
 
 ## Skills and Experiences
 
