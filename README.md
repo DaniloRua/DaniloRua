@@ -10,8 +10,9 @@ I'm Danilo Rua from Brazil, currently living in England, and I've been studying 
 - 🌫  Tailwindcss
 - ⚛️ React 
 - 🌱 I’m currently learning APIs, nodejs and React 
-- 🔭 Evolve in progress...
-
+- ✏️ Currently taking the CS50x course and Front-End Web development Bootcamp on edX
+-  🔭 Evolve in progress...
+-  
 <div>
   <a href="https://github.com/https://github.com/DaniloRua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilorua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
